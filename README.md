@@ -18,6 +18,10 @@ Track application with complete Authentication business logic and a list of trac
 - NodeJS
 - axios
 
+## Back end
+- API middleware (NodeJS / JavaScript)
+- MongoDB
+
 # Author
 - Tiago Moita
 - https://www.linkedin.com/in/tiago-moita-a96692204/
