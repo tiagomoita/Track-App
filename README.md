@@ -1,5 +1,5 @@
 # About the project
-Track application with complete Authentication business logic and a list of tracks per user, using MongoDB as DB.
+Track application with complete Authentication business logic and a list of tracks per user, using Expo Platform instead of React Native CLI, and MongoDB as DB.
 
 
 ## Layout mobile
